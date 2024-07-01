@@ -1,0 +1,14 @@
+/Users/amaniatiah/Desktop/assigmment_temp/bin/Debug/net8.0/assigmment_temp
+/Users/amaniatiah/Desktop/assigmment_temp/bin/Debug/net8.0/assigmment_temp.deps.json
+/Users/amaniatiah/Desktop/assigmment_temp/bin/Debug/net8.0/assigmment_temp.runtimeconfig.json
+/Users/amaniatiah/Desktop/assigmment_temp/bin/Debug/net8.0/assigmment_temp.dll
+/Users/amaniatiah/Desktop/assigmment_temp/bin/Debug/net8.0/assigmment_temp.pdb
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/assigmment_temp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/assigmment_temp.AssemblyInfoInputs.cache
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/assigmment_temp.AssemblyInfo.cs
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/assigmment_temp.csproj.CoreCompileInputs.cache
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/assigmment_temp.dll
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/refint/assigmment_temp.dll
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/assigmment_temp.pdb
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/assigmment_temp.genruntimeconfig.cache
+/Users/amaniatiah/Desktop/assigmment_temp/obj/Debug/net8.0/ref/assigmment_temp.dll
